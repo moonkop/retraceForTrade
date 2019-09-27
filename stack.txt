@@ -1,0 +1,1 @@
+TypeError: Cannot read property 'tid' of undefined at https://q.aiyongbao.com/trade/2.9.58/web/build/pages/wwindex/index.js:1:113223 at Array.map (<anonymous>) at https://q.aiyongbao.com/trade/2.9.58/web/build/pages/wwindex/index.js:1:113203 at <anonymous>
