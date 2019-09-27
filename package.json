@@ -1,0 +1,8 @@
+{
+  "name": "reTraceTest",
+  "version": "1.0.0",
+  "dependencies": {
+    "retrace": "^1.0.0",
+    "ws": "^7.1.1"
+  }
+}
