@@ -32,4 +32,5 @@ stack = stack.replace('(<anonymous>)','');
 
 retrace.map(stack).then(function(stack){
     console.log(stack); // Log the re-mapped stack trace
+    fs.writeFileSync('./stack_parsed',stack);
 })
